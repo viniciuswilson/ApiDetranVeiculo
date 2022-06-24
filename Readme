@@ -1,0 +1,13 @@
+Desenvolvimento Api Registro de Contrato para ser utilizada como Middleware SNG(Sistema Nacional de Gravames) - Agente Financeiros - Base Nacional - Detran-ES
+
+  Tecnologias utilizadas
+    * .NetCore 2.2
+    * MinIo
+    * OAuth2.0 com JWT atenticando via acesso Cidadão-ES
+    
+Swagguer
+  https://api.detranveiculo.hom.es.gov.br/swagger/index.html
+  
+Documentação
+  https://novo.detrannet.dchm.es.gov.br/sharedasp/detran.veiculos/index.html
+  * Docusaurus 
